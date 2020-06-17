@@ -1,3 +1,3 @@
-module github.com/TigaTeam/tigago
+module github.com/tigateam/tigago
 
 go 1.14
