@@ -1,7 +1,9 @@
-# tigago
-Tigago是一个Go web框架
+# Tigago
 
-## 快速启动
-```
+Tigago is a Go Web Framework
+
+## Installation
+
+``` 
 go get github.com/tigateam/tigago
 ```
