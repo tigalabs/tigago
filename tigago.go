@@ -5,4 +5,5 @@ const (
 	AUTHORS = "TigaTeam"
 	EMAIL   = "misitebao@tigateam.com"
 	SITE    = "https://tigago.tigateam.com"
+	REPO    = "https://github.com/tigateam/tigago"
 )
