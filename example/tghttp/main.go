@@ -1,0 +1,5 @@
+import main
+
+func main()  {
+	
+}
