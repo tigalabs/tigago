@@ -12,14 +12,14 @@ type Context struct {
 	Req    *http.Request
 
 	// 请求信息
-	Path   string
-	Method string
+	Path   string // 路径
+	Method string // 方式
 
 	// 响应信息
-	StatusCode int
+	StatusCode int // 状态码
 }
 
-// 实例化上下文
+// newContext 实例化上下文
 func newContext(w http.ResponseWriter, req *http.Request) *Context {
 	return &Context{
 		Writer: w,
@@ -29,17 +29,17 @@ func newContext(w http.ResponseWriter, req *http.Request) *Context {
 	}
 }
 
-// PostForm POST 请求
+// PostForm 获取POST请求参数
 func (c *Context) PostForm(key string) string {
 	return c.Req.FormValue(key)
 }
 
-// Query GET 请求
+// Query 获取GET请求参数
 func (c *Context) Query(key string) string {
 	return c.Req.URL.Query().Get(key)
 }
 
-// Status 状态码
+// Status 设置http状态码
 func (c *Context) Status(code int) {
 	c.StatusCode = code
 	c.Writer.WriteHeader(code)
