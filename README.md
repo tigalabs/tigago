@@ -32,6 +32,8 @@ go get github.com/tigateam/tigago
 
 ## :stars: Contributors
 
+Thank you to all the contributors who participated in the development of tigago.[Contributors](https://github.com/tigateam/tigago/graphs/contributors)
+
 ## :coffee: Donators
 
 ## :moneybag: Sponsors

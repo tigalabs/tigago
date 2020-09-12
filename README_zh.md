@@ -30,6 +30,8 @@ go get github.com/tigateam/tigago
 
 ## :stars: 贡献者
 
+感谢所有参与 `Tigago` 开发的贡献者。[贡献者列表](https://github.com/tigateam/tigago/graphs/contributors)
+
 ## :coffee: 捐赠者
 
 ## :moneybag: 赞助商
