@@ -2,6 +2,8 @@ package tigago
 
 import "fmt"
 
+// Framework basic information
+//
 // 框架基本信息
 const (
 	Version = "v0.0.3"
@@ -11,7 +13,9 @@ const (
 	Repo    = "https://github.com/tigateam/tigago"
 )
 
-// Info 输出框架基本信息
+//	Info Print frame basic information
+//
+//	Info 打印框架基本信息
 func Info() {
 	fmt.Printf(`
   Site   :%v

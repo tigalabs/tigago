@@ -8,7 +8,7 @@
 
 ## :information_source: 项目介绍
 
-Tigago是一个Go web框架
+Tigago是一个Go Web框架
 
 ### :bell: 官网
 
