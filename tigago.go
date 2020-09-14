@@ -13,10 +13,10 @@ const (
 // Info 输出框架信息
 func Info() {
 	fmt.Printf(`
-  SITE   :%v
-  REPO   :%v
-  EMAIL  :%v
-  AUTHORS:%v
-  VERSION:%v
+  Site   :%v
+  Repo   :%v
+  Email  :%v
+  Authors:%v
+  Version:%v
   `, VERSION, AUTHORS, EMAIL, SITE, REPO)
 }
