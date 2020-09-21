@@ -45,6 +45,16 @@ func (server *Server) POST(pattern string, handler HandlerFunc) {
 	server.addRoute("POST", pattern, handler)
 }
 
+// PUT 定义 PUT 请求方法
+func (server *Server) PUT(pattern string, handler HandlerFunc) {
+	server.addRoute("PUT", pattern, handler)
+}
+
+// DELETE 定义 DELETE 请求方法
+func (server *Server) DELETE(pattern string, handler HandlerFunc) {
+	server.addRoute("DELETE", pattern, handler)
+}
+
 // Run 运行自定义的http服务器的方法
 func (server *Server) Run(addr string) (err error) {
 	return http.ListenAndServe(addr, server)
