@@ -17,6 +17,7 @@ type Context struct {
 
 	// 响应信息
 	StatusCode int // 状态码
+
 }
 
 // newContext 实例化上下文
