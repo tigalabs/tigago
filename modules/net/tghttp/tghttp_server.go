@@ -5,17 +5,14 @@ import (
 	"net/http"
 )
 
-// HandlerFunc定义tghttp使用的请求处理程序
+// HandlerFunc 定义tghttp使用的请求处理程序
 type HandlerFunc func(*Context)
 
+// Server http server
 type Server struct {
-	// 路由映射 map
-	routes map[string]HandlerFunc
-	// 语言
-	lang string
+	routes map[string]HandlerFunc // 路由映射 map
+	lang   string                 // 语言
 }
-
-// TODO:定义新增路由 路由分组方法
 
 // NewServer 是 tghttp.Server 的构造函数
 func NewServer() *Server {
@@ -64,6 +61,6 @@ func (server *Server) ServeHTTP(w http.ResponseWriter, req *http.Request) {
 		handler(newContext(w, req))
 	} else {
 		// 如果没有匹配到路由处理函数，则返回 404
-		fmt.Fprintf(w, Message[server.lang]["PATH_NOT_FOUND"]+": %s\n", req.URL)
+		fmt.Fprintf(w, message[server.lang]["PATH_NOT_FOUND"]+": %s\n", req.URL)
 	}
 }
