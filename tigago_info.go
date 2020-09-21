@@ -6,7 +6,7 @@ import "fmt"
 //
 // 框架基本信息
 const (
-	Version = "v0.0.3"
+	Version = "v0.0.7"
 	Authors = "TigaTeam"
 	Email   = "misitebao@tigateam.com"
 	Site    = "https://tigago.tigateam.com"
@@ -18,10 +18,10 @@ const (
 //	Info 打印框架基本信息
 func Info() {
 	fmt.Printf(`
+  Version:%v
+  Authors:%v
+  Email  :%v
   Site   :%v
   Repo   :%v
-  Email  :%v
-  Authors:%v
-  Version:%v
   `, Version, Authors, Email, Site, Repo)
 }
