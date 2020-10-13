@@ -6,14 +6,15 @@ import (
 	"net/http"
 )
 
+// Context 处理方法上下文
 type Context struct {
 	// 原生对象
 	Writer http.ResponseWriter
 	Req    *http.Request
 
 	// 请求信息
-	Path   string // 路径
 	Method string // 方式
+	Path   string // 路径
 
 	// 响应信息
 	StatusCode int // 状态码

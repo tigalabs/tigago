@@ -5,11 +5,9 @@ import (
 	"net/http"
 )
 
-// HandlerFunc 定义tghttp使用的请求处理程序
-type HandlerFunc func(*Context)
-
 // Server http server
 type Server struct {
+	router *router
 	routes map[string]HandlerFunc // 路由映射 map
 	lang   string                 // 语言
 }
@@ -17,60 +15,53 @@ type Server struct {
 // NewServer 是 tghttp.Server 的构造函数
 func NewServer() *Server {
 	return &Server{
-		routes: make(map[string]HandlerFunc), // 初始化路由
-		lang:   "zh-CN",                      // 默认为中文
+		router: newRouter(),
+		lang:   "zh-CN", // 默认为中文
 	}
-
 }
 
 // SetLang 设置语言
-func (server *Server) SetLang(lang string) {
-	server.lang = lang
-	fmt.Printf("%#v", server)
-}
-
-// addRoute 新增路由
-func (server *Server) addRoute(method string, pattern string, handler HandlerFunc) {
-	key := method + "-" + pattern
-	server.routes[key] = handler
+func (s *Server) SetLang(lang string) {
+	s.lang = lang
+	fmt.Printf("%#v", s)
 }
 
 // GET 定义 GET 请求方法
-func (server *Server) GET(pattern string, handler HandlerFunc) {
-	server.addRoute("GET", pattern, handler)
+func (s *Server) GET(pattern string, handler HandlerFunc) {
+	s.router.addRoute("GET", pattern, handler)
 }
 
 // POST 定义 POST 请求方法
-func (server *Server) POST(pattern string, handler HandlerFunc) {
-	server.addRoute("POST", pattern, handler)
+func (s *Server) POST(pattern string, handler HandlerFunc) {
+	s.router.addRoute("POST", pattern, handler)
 }
 
 // PUT 定义 PUT 请求方法
-func (server *Server) PUT(pattern string, handler HandlerFunc) {
-	server.addRoute("PUT", pattern, handler)
+func (s *Server) PUT(pattern string, handler HandlerFunc) {
+	s.router.addRoute("PUT", pattern, handler)
 }
 
 // DELETE 定义 DELETE 请求方法
-func (server *Server) DELETE(pattern string, handler HandlerFunc) {
-	server.addRoute("DELETE", pattern, handler)
+func (s *Server) DELETE(pattern string, handler HandlerFunc) {
+	s.router.addRoute("DELETE", pattern, handler)
 }
 
 // Run 运行自定义的http服务器的方法
-func (server *Server) Run(addr string) (err error) {
-	return http.ListenAndServe(addr, server)
+func (s *Server) Run(addr string) (err error) {
+	return http.ListenAndServe(addr, s)
 }
 
 // ServeHTTP 实现http.Handler接口
-func (server *Server) ServeHTTP(w http.ResponseWriter, req *http.Request) {
+func (s *Server) ServeHTTP(w http.ResponseWriter, req *http.Request) {
 
 	key := req.Method + "-" + req.URL.Path
 
 	// 遍历匹配对应路由
-	if handler, ok := server.routes[key]; ok {
+	if handler, ok := s.router.routes[key]; ok {
 		// 执行处理函数
 		handler(newContext(w, req))
 	} else {
 		// 如果没有匹配到路由处理函数，则返回 404
-		fmt.Fprintf(w, message[server.lang]["PATH_NOT_FOUND"]+": %s\n", req.URL)
+		fmt.Fprintf(w, "PATH_NOT_FOUND: %s\n", req.URL)
 	}
 }
