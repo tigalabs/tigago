@@ -1,0 +1,3 @@
+[submodule "modules/net/tghttp"]
+	path = modules/net/tghttp
+	url = https://github.com/tigateam/tghttp.git
