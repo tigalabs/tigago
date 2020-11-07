@@ -1,3 +1,6 @@
 [submodule "modules/net/tghttp"]
 	path = modules/net/tghttp
 	url = https://github.com/tigateam/tghttp.git
+[submodule "modules/database/tgorm"]
+	path = modules/database/tgorm
+	url = https://github.com/tigateam/tgorm.git
