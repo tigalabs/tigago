@@ -4,3 +4,6 @@
 [submodule "modules/database/tgorm"]
 	path = modules/database/tgorm
 	url = https://github.com/tigateam/tgorm.git
+[submodule "modules/os/tglog"]
+	path = modules/os/tglog
+	url = https://github.com/tigateam/tglog.git
