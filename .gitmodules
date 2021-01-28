@@ -4,3 +4,7 @@
 [submodule "modules/os/tglog"]
 	path = modules/os/tglog
 	url = https://github.com/tigateam/tglog.git
+[submodule "modules/net/tghttp"]
+	path = modules/net/tghttp
+	url = https://github.com/tigateam/tghttp-go.git
+	branch = main
