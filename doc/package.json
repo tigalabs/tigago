@@ -1,0 +1,19 @@
+{
+  "name": "tigago-website",
+  "version": "1.0.0",
+  "description": "Tigago Web Framework Official Website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "test": "serve dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.5.4",
+    "serve": "^11.3.2",
+    "vuepress": "^1.5.2"
+  }
+}
