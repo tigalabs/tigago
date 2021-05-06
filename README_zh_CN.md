@@ -2,7 +2,7 @@
 
 ## :large_blue_circle: 国际化
 
-[English](README.md) | 中文
+[English](README.md) | 简体中文
 
 ## :book: 内容目录
 

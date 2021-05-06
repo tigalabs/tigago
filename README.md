@@ -2,7 +2,7 @@
 
 ## :large_blue_circle: Internationalization
 
-English | [中文](README_zh.md)
+English | [简体中文](README_zh_CN.md)
 
 ## :book: Contents
 
