@@ -10,3 +10,7 @@
 	path = modules/net/tghttp
 	url = https://github.com/tigateam/tghttp-go.git
 	branch = main
+[submodule "modules/i18n/tgi18n"]
+	path = modules/i18n/tgi18n
+	url = https://github.com/tigateam/tgi18n-go.git
+	branch = main
