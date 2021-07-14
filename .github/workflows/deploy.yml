@@ -1,0 +1,35 @@
+# name: Deploy | 部署
+# on:
+#   push:
+#     branches: [main]
+# #  pull_request:
+# #    branches: [master]
+# jobs:
+#   build-and-deploy:
+#     runs-on: ubuntu-latest
+#     if: github.repository == 'misitebao/template-git-repository'
+#     steps:
+#       - name: Checkout | 切换到部署分支
+#         uses: actions/checkout@v2
+#         with:
+#           ref: "master"
+#           submodules: true
+#           fetch-depth: 0
+
+#       - name: Setup Hugo | 设置Hugo环境
+#         uses: peaceiris/actions-hugo@v2
+#         with:
+#           hugo-version: "0.81.0"
+#           extended: true
+
+#       - name: Build | 构建
+#         run: hugo
+
+#       - name: Deploy to Server | 部署到服务器
+#         uses: hengkx/ssh-deploy@v1.0.1
+#         with:
+#           HOST: ${{ secrets.DEPLOY_HOST }}
+#           USERNAME: ${{ secrets.DEPLOY_HOST_USER }} # 为了用户信息安全对敏感数据可以在secrets中配置请看下图
+#           PASSWORD: ${{ secrets.DEPLOY_HOST_PASSWORD }}
+#           SOURCE: "public"
+#           TARGET: "/www/wwwroot/tigateam.org"
