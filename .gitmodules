@@ -1,9 +1,11 @@
 [submodule "modules/database/tgorm"]
 	path = modules/database/tgorm
 	url = https://github.com/tigateam/tgorm.git
+	branch = main
 [submodule "modules/os/tglog"]
 	path = modules/os/tglog
 	url = https://github.com/tigateam/tglog.git
+	branch = main
 [submodule "modules/net/tghttp"]
 	path = modules/net/tghttp
 	url = https://github.com/tigateam/tghttp-go.git
