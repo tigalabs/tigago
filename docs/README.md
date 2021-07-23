@@ -1,0 +1,1 @@
+This directory is the original document directory and is now written directly in the warehouse [https://github.com/tigateam/tigago-website/tree/main/docs](https://github.com/tigateam/tigago-website/tree/main/docs).
