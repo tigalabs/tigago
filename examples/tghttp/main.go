@@ -1,5 +1,0 @@
-import main
-
-func main()  {
-	
-}
