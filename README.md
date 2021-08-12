@@ -16,6 +16,9 @@ English | [简体中文](README.zh-Hans.md)
 
 ## 📚 Contents
 
+<details>
+  <summary>Click me to Open/Close the directory listing</summary>
+
 - [Internationalization](#nav-1)
 - [Contents](#nav-2)
 - [Introductions](#nav-3)
@@ -32,6 +35,8 @@ English | [简体中文](README.zh-Hans.md)
 - [Sponsors](#nav-12)
 - [Thanks](#nav-13)
 - [License](#nav-14)
+
+</details>
 
 <span id="nav-3"></span>
 
