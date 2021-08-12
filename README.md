@@ -10,6 +10,8 @@ A modular framework based on Go language
 
 ## 🌏 Internationalization
 
+[![Join the chat at https://gitter.im/tigateam/tigago](https://badges.gitter.im/tigateam/tigago.svg)](https://gitter.im/tigateam/tigago?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 English | [简体中文](README.zh-Hans.md)
 
 <span id="nav-2"></span>
