@@ -79,6 +79,8 @@ Thank you to all the contributors who participated in the development of tigago.
 
 ### 😵 Community Exchange
 
+- [![Join the chat at https://gitter.im/tigateam/tigago](https://badges.gitter.im/tigateam/tigago.svg)](https://gitter.im/tigateam/tigago?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 <span id="nav-11"></span>
 
 ## ☕Donators
