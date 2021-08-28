@@ -78,17 +78,25 @@ go get github.com/tigateam/tigago
 
 ## 🌟 Contributors
 
-Thank you to all the contributors who participated in the development of tigago. [Contributors](https://github.com/tigateam/tigago/graphs/contributors)
+Thank you to all the contributors who participated in the development of
+tigago. [Contributors](https://github.com/tigateam/tigago/graphs/contributors)
 
 <span id="nav-9-1"></span>
 
 ### 😵 Community Exchange
 
-- [Join the chat at gitter](https://gitter.im/tigateam/tigago?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+- [Join the chat at Gitter](https://gitter.im/tigateam/tigago?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+- [RobeeAsk Group](http://tigago.robeeask.com/)
 
 <span id="nav-11"></span>
 
 ## ☕Donators
+
+Thanks for the donations of the following individuals and companies:
+
+<a href="https://robeeask.com">
+  <img src="https://robeeask.com/template/rtj1009_012/image/logo.png" height="50px" alt="RobeeAsk"/>
+</a>
 
 <span id="nav-12"></span>
 
@@ -97,6 +105,10 @@ Thank you to all the contributors who participated in the development of tigago.
 <span id="nav-13"></span>
 
 ## 👏Thanks
+
+<a href="https://www.jetbrains.com/?from=Tigaui">
+  <img src="https://cdn.jsdelivr.net/gh/misitebao/CDN@main/logo/jetbrains.png" height="120" alt="JetBrains"/>
+</a>
 
 <span id="nav-14"></span>
 

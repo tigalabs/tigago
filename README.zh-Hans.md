@@ -85,10 +85,17 @@ go get github.com/tigateam/tigago
 ### 😵 社区交流
 
 - [在 gitter 上加入聊天](https://gitter.im/tigateam/tigago?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+- [RobeeAsk 讨论组](http://tigago.robeeask.com/)
 
 <span id="nav-11"></span>
 
 ## ☕ 捐赠者
+
+感谢以下个人和公司的捐赠：
+
+<a href="https://robeeask.com">
+  <img src="https://robeeask.com/template/rtj1009_012/image/logo.png" height="50px" alt="RobeeAsk"/>
+</a>
 
 <span id="nav-12"></span>
 
@@ -97,6 +104,10 @@ go get github.com/tigateam/tigago
 <span id="nav-13"></span>
 
 ## 👏 鸣谢
+
+<a href="https://www.jetbrains.com/?from=Tigaui">
+  <img src="https://cdn.jsdelivr.net/gh/misitebao/CDN@main/logo/jetbrains.png" height="120" alt="JetBrains"/>
+</a>
 
 <span id="nav-14"></span>
 
