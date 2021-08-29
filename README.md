@@ -95,7 +95,7 @@ tigago. [Contributors](https://github.com/tigateam/tigago/graphs/contributors)
 Thanks for the donations of the following individuals and companies:
 
 <a href="https://robeeask.com">
-  <img src="https://robeeask.com/template/rtj1009_012/image/logo.png" height="50px" alt="RobeeAsk"/>
+  <img src="https://cdn.jsdelivr.net/gh/misitebao/CDN@main/logo/robeeask.png" height="50px" alt="RobeeAsk"/>
 </a>
 
 <span id="nav-12"></span>

@@ -94,7 +94,7 @@ go get github.com/tigateam/tigago
 感谢以下个人和公司的捐赠：
 
 <a href="https://robeeask.com">
-  <img src="https://robeeask.com/template/rtj1009_012/image/logo.png" height="50px" alt="RobeeAsk"/>
+  <img src="https://cdn.jsdelivr.net/gh/misitebao/CDN@main/logo/robeeask.png" height="50px" alt="RobeeAsk"/>
 </a>
 
 <span id="nav-12"></span>
