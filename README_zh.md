@@ -79,7 +79,7 @@ go get github.com/tigateam/tigago
 
 ## 🌟 贡献者
 
-感谢所有参与 tigago 开发的贡献者。 [Contributors](https://github.com/tigateam/tigago/graphs/contributors)
+感谢所有参与 tigago 开发的贡献者。 [Contributors](https://gitee.com/tigateam/tigago/repository/stats/main)
 
 <a href="https://github.com/misitebao"><img src="https://github.com/misitebao.png" width="40" height="40" alt="misitebao" title="misitebao"/></a>
 
