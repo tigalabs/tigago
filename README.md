@@ -107,9 +107,13 @@ Thank you to all the contributors who participated in the development of tigago.
 
 - [Zhiyishangzhi Technology Co., Ltd.](#)
 
+> We have listed some users here, if your company or project is using Tigago, please let us know [here](https://github.com/tigateam/tigago/issues/13).
+
 <span id="nav-11"></span>
 
 ## ☕ Donators
+
+_If you love Tigago, why not buy developer a cup of coffee?_
 
 <span id="nav-12"></span>
 
@@ -120,6 +124,8 @@ Thanks for the sponsors of the following individuals and companies:
 <a href="https://robeeask.com">
   <img src="https://cdn.jsdelivr.net/gh/misitebao/CDN@main/logo/robeeask.png" height="50px" alt="RobeeAsk"/>
 </a>
+
+> We thank you for any kind of sponsorship for the development of Tigago
 
 <span id="nav-13"></span>
 

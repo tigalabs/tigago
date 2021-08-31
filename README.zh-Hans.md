@@ -107,9 +107,13 @@ go get github.com/tigateam/tigago
 
 - [知一尚智](#)
 
+> 我们在这里列出了一些用户，如果您的公司或项目正在使用 Tigago，请在[这里](https://github.com/tigateam/tigago/issues/13)告诉我们吧。
+
 <span id="nav-11"></span>
 
 ## ☕ 捐赠者
+
+_如果你喜欢 Tigago 的话，可以请我们喝杯咖啡。_
 
 <span id="nav-12"></span>
 
@@ -120,6 +124,8 @@ go get github.com/tigateam/tigago
 <a href="https://robeeask.com">
   <img src="https://cdn.jsdelivr.net/gh/misitebao/CDN@main/logo/robeeask.png" height="50px" alt="RobeeAsk"/>
 </a>
+
+> 我们感谢您为 Tigago 的发展提供任何形式的赞助
 
 <span id="nav-13"></span>
 
