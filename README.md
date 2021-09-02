@@ -10,7 +10,7 @@ A modular framework based on Go language
 
 ## 🌏 Internationalization
 
-[English](README.md) | [简体中文](README.zh-Hans.md)
+[English](README.md) | [简体中文](README.zh-Hans.md) | [繁體中文](README.zh-Hant.md)
 
 <span id="nav-2"></span>
 
