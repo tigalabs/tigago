@@ -34,7 +34,7 @@ A modular framework based on Go language
 - [Release History](CHANGE.md)
 - [Donators](#nav-11)
 - [Sponsors](#nav-12)
-- [Thanks](#nav-13)
+- [Special Thanks](#nav-13)
 - [License](#nav-14)
 
 </details>
@@ -129,7 +129,7 @@ Thanks for the sponsors of the following individuals and companies:
 
 <span id="nav-13"></span>
 
-## 👏 Thanks
+## 👏 Special Thanks
 
 <a href="https://www.jetbrains.com/?from=Tigaui">
   <img src="https://cdn.jsdelivr.net/gh/misitebao/CDN@main/logo/jetbrains.png" height="120px" alt="JetBrains"/>

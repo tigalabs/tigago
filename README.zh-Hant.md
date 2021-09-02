@@ -34,7 +34,7 @@
 - [發布記錄](CHANGE.md)
 - [捐贈者](#nav-11)
 - [贊助商](#nav-12)
-- [特別鳴謝](#nav-13)
+- [特別感謝](#nav-13)
 - [版權許可](#nav-14)
 
 </details>
@@ -79,7 +79,7 @@ go get github.com/tigateam/tigago
 
 ## 🌟 貢獻者
 
-感謝所有參與 tigago 開發的貢獻者。 [Contributors](https://github.com/tigateam/tigago/graphs/contributors)
+感謝所有參與 tigago 開發的貢獻者。 [貢獻者](https://github.com/tigateam/tigago/graphs/contributors)
 
 <a href="https://github.com/misitebao"><img src="https://github.com/misitebao.png" width="40" height="40" alt="misitebao" title="misitebao"/></a>
 
@@ -96,10 +96,10 @@ go get github.com/tigateam/tigago
 
 | 名稱                   | 方式                                                                                             | 描述                            |
 | ---------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------- |
-| Github Discussions(⭐) | [https://github.com/tigateam/tigago/discussions](https://github.com/tigateam/tigago/discussions) | Github 官方开源项目讨论组       |
-| Gitter                 | [https://gitter.im/tigateam/tigago](https://gitter.im/tigateam/tigago)                           | 一个公开的即时聊天工具          |
-| RobeeAsk               | [http://tigago.robeeask.com/](http://tigago.robeeask.com/)                                       | 一个付费问答社区                |
-| 微信/QQ Group          | 微信: misitebao_work</br>QQ: 1028817941                                                          | 添加微信/QQ，备注 Tigago 加群。 |
+| Github Discussions(⭐) | [https://github.com/tigateam/tigago/discussions](https://github.com/tigateam/tigago/discussions) | Github 官方開源項目討論組       |
+| Gitter                 | [https://gitter.im/tigateam/tigago](https://gitter.im/tigateam/tigago)                           | 一個公開的即時聊天工具          |
+| RobeeAsk               | [http://tigago.robeeask.com/](http://tigago.robeeask.com/)                                       | 一個付費問答社區                |
+| 微信/QQ Group          | 微信: misitebao_work</br>QQ: 1028817941                                                          | 添加微信/QQ，備註 Tigago 加群。 |
 
 <span id="nav-10"></span>
 
@@ -129,7 +129,7 @@ _如果你喜歡 Tigago 的話，可以請我們喝杯咖啡。_
 
 <span id="nav-13"></span>
 
-## 👏 鳴謝
+## 👏 特別感謝
 
 <a href="https://www.jetbrains.com/?from=Tigaui">
   <img src="https://cdn.jsdelivr.net/gh/misitebao/CDN@main/logo/jetbrains.png" height="120" alt="JetBrains"/>

@@ -34,7 +34,7 @@
 - [发布记录](CHANGE.md)
 - [捐赠者](#nav-11)
 - [赞助商](#nav-12)
-- [特别鸣谢](#nav-13)
+- [特别感谢](#nav-13)
 - [版权许可](#nav-14)
 
 </details>
@@ -79,7 +79,7 @@ go get github.com/tigateam/tigago
 
 ## 🌟 贡献者
 
-感谢所有参与 tigago 开发的贡献者。 [Contributors](https://github.com/tigateam/tigago/graphs/contributors)
+感谢所有参与 tigago 开发的贡献者。 [贡献者](https://github.com/tigateam/tigago/graphs/contributors)
 
 <a href="https://github.com/misitebao"><img src="https://github.com/misitebao.png" width="40" height="40" alt="misitebao" title="misitebao"/></a>
 
@@ -129,7 +129,7 @@ _如果你喜欢 Tigago 的话，可以请我们喝杯咖啡。_
 
 <span id="nav-13"></span>
 
-## 👏 鸣谢
+## 👏 特别感谢
 
 <a href="https://www.jetbrains.com/?from=Tigaui">
   <img src="https://cdn.jsdelivr.net/gh/misitebao/CDN@main/logo/jetbrains.png" height="120" alt="JetBrains"/>

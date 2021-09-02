@@ -34,7 +34,7 @@
 - [发布记录](CHANGE.md)
 - [捐赠者](#nav-11)
 - [赞助商](#nav-12)
-- [特别鸣谢](#nav-13)
+- [特别感谢](#nav-13)
 - [版权许可](#nav-14)
 
 </details>
@@ -79,14 +79,14 @@ go get github.com/tigateam/tigago
 
 ## 🌟 贡献者
 
-感谢所有参与 tigago 开发的贡献者。 [Contributors](https://gitee.com/tigateam/tigago/repository/stats/main)
+感谢所有参与 tigago 开发的贡献者。 [贡献者](https://gitee.com/tigateam/tigago/repository/stats/main)
 
-<a href="https://github.com/misitebao"><img src="https://github.com/misitebao.png" width="40" height="40" alt="misitebao" title="misitebao"/></a>
+<a href="https://gitee.com/misitebao"><img src="https://github.com/misitebao.png" width="40" height="40" alt="misitebao" title="misitebao"/></a>
 
 <details>
   <summary>点我 打开/关闭 贡献者列表</summary>
 
-- [Misitebao](https://github.com/misitebao)
+- [Misitebao](https://gitee.com/misitebao)
 
 </details>
 
@@ -99,7 +99,7 @@ go get github.com/tigateam/tigago
 | Github Discussions(⭐) | [https://github.com/tigateam/tigago/discussions](https://github.com/tigateam/tigago/discussions) | Github 官方开源项目讨论组       |
 | Gitter                 | [https://gitter.im/tigateam/tigago](https://gitter.im/tigateam/tigago)                           | 一个公开的即时聊天工具          |
 | RobeeAsk               | [http://tigago.robeeask.com/](http://tigago.robeeask.com/)                                       | 一个付费问答社区                |
-| 微信/QQ Group          | 微信: misitebao_work QQ: 1028817941                                                              | 添加微信/QQ，备注 Tigago 加群。 |
+| 微信/QQ Group          | 微信: misitebao_work</br>QQ: 1028817941                                                          | 添加微信/QQ，备注 Tigago 加群。 |
 
 <span id="nav-10"></span>
 
@@ -123,7 +123,7 @@ go get github.com/tigateam/tigago
 
 <span id="nav-13"></span>
 
-## 👏 鸣谢
+## 👏 特别感谢
 
 <a href="https://www.jetbrains.com/?from=Tigaui">
   <img src="https://cdn.jsdelivr.net/gh/misitebao/CDN@main/logo/jetbrains.png" height="120" alt="JetBrains"/>
