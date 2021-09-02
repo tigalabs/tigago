@@ -99,7 +99,7 @@ go get github.com/tigateam/tigago
 | Github Discussions(⭐) | [https://github.com/tigateam/tigago/discussions](https://github.com/tigateam/tigago/discussions) | Github 官方开源项目讨论组       |
 | Gitter                 | [https://gitter.im/tigateam/tigago](https://gitter.im/tigateam/tigago)                           | 一个公开的即时聊天工具          |
 | RobeeAsk               | [http://tigago.robeeask.com/](http://tigago.robeeask.com/)                                       | 一个付费问答社区                |
-| 微信/QQ Group          | 微信: misitebao_work QQ: 1028817941                                                              | 添加微信/QQ，备注 Tigago 加群。 |
+| 微信/QQ Group          | 微信: misitebao_work</br>QQ: 1028817941                                                          | 添加微信/QQ，备注 Tigago 加群。 |
 
 <span id="nav-10"></span>
 

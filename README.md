@@ -99,7 +99,7 @@ Thank you to all the contributors who participated in the development of tigago.
 | Github Discussions(⭐) | [https://github.com/tigateam/tigago/discussions](https://github.com/tigateam/tigago/discussions) | Github official open source project discussion group |
 | Gitter                 | [https://gitter.im/tigateam/tigago](https://gitter.im/tigateam/tigago)                           | A public instant chat tool                           |
 | RobeeAsk               | [http://tigago.robeeask.com/](http://tigago.robeeask.com/)                                       | A paid Q&A community                                 |
-| Wechat/QQ Group        | Wechat ID: misitebao_work QQ Number: 1028817941                                                  | Add WeChat/QQ friends, note Tigago add group.        |
+| Wechat/QQ Group        | Wechat ID: misitebao_work</br>QQ Number: 1028817941                                              | Add WeChat/QQ friends, note Tigago add group.        |
 
 <span id="nav-10"></span>
 
