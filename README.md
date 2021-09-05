@@ -1,8 +1,16 @@
 <p align="center">
-   <img src="/logo.jpeg" width="180" height="180"/>
+  <img src="/logo.png" height="350"/>
 </p>
 <p align="center">
 A modular framework based on Go language
+</p>
+<p align="center">
+  <a href="https://github.com/tigateam/tigago/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/tigateam/tigago?style=flat-square"/></a>
+  <a href="https://github.com/misitebao/standard-repository"><img alt="GitHub" src="https://img.shields.io/badge/Readme--Style-standard--repository-brightgreen?style=flat-square"/></a>
+  <a href="https://github.com/tigateam/tigago"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tigateam/tigago?style=flat-square"/></a>
+  <a href="https://github.com/tigateam/tigago/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/tigateam/tigago?style=flat-square"/></a>
+  <a href="https://github.com/tigateam/tigago/releases"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/tigateam/tigago?style=flat-square"/></a>
+  <a href="https://gitter.im/tigateam/tigago"><img alt="Gitter" src="https://img.shields.io/gitter/room/tigateam/tigago?style=flat-square"/></a>
 </p>
 
 <span id="nav-1"></span>
