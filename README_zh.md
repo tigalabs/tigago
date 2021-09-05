@@ -1,6 +1,6 @@
 <!-- # README -->
 <p align="center">
-   <img src="https://cdn.jsdelivr.net/gh/misitebao/CDN@master/gravatar_tigateam.png" width="180" height="180"/><br/>
+   <img src="/logo.jpeg" width="180" height="180"/>
 </p>
 <p align="center">
 一个基于Go语言的模块化框架
@@ -8,13 +8,13 @@
 
 <span id="nav-1"></span>
 
-## 🌏 国际化
+## 国际化
 
 [English](README.md) | [简体中文](README_zh.md)
 
 <span id="nav-2"></span>
 
-## 📚 内容目录
+## 内容目录
 
 <details>
   <summary>点我 打开/关闭 目录列表</summary>
@@ -23,6 +23,7 @@
 - [内容目录](#nav-2)
 - [项目介绍](#nav-3)
   - [官方网站](#nav-3-1)
+  - [背景](#nav-3-2)
 - [图形演示](#nav-4)
 - [功能特色](#nav-5)
 - [架构](#nav-6)
@@ -30,42 +31,46 @@
 - [关于作者](#nav-8)
 - [贡献者](#nav-9)
 - [社区交流](#nav-15)
-- [部分用户](#nav-10)
+- [部分用户](#nav-11)
 - [发布记录](CHANGE.md)
-- [捐赠者](#nav-11)
-- [赞助商](#nav-12)
-- [特别感谢](#nav-13)
-- [版权许可](#nav-14)
+- [捐赠者](#nav-12)
+- [赞助商](#nav-13)
+- [特别感谢](#nav-14)
+- [版权许可](#nav-15)
 
 </details>
 
 <span id="nav-3"></span>
 
-## ℹ️ 项目介绍
+## 项目介绍
 
 一个基于 Go 语言的模块化框架
 
 <span id="nav-3-1"></span>
 
-### 🔔 官方网站
+### 官方网站
 
 [Tigago 文档网站](https://tigago.tigateam.org)
 
+<span id="nav-3-2"></span>
+
+### 背景
+
 <span id="nav-4"></span>
 
-## 🌅 图形演示
+## 图形演示
 
 <span id="nav-5"></span>
 
-## ✳️ 功能特色
+## 功能特色
 
 <span id="nav-6"></span>
 
-## 🍊 架构
+## 架构
 
 <span id="nav-7"></span>
 
-## 💎 新手入门
+## 新手入门
 
 ```
 go get github.com/tigateam/tigago
@@ -73,11 +78,11 @@ go get github.com/tigateam/tigago
 
 <span id="nav-8"></span>
 
-## 🙆 关于作者
+## 关于作者
 
 <span id="nav-9"></span>
 
-## 🌟 贡献者
+## 贡献者
 
 感谢所有参与 tigago 开发的贡献者。 [贡献者](https://gitee.com/tigateam/tigago/repository/stats/main)
 
@@ -90,30 +95,30 @@ go get github.com/tigateam/tigago
 
 </details>
 
-<span id="nav-15"></span>
+<span id="nav-10"></span>
 
-## 😵 社区交流
+## 社区交流
 
 | 名称                   | 方式                                                                                             | 描述                            |
 | ---------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------- |
 | Github Discussions(⭐) | [https://github.com/tigateam/tigago/discussions](https://github.com/tigateam/tigago/discussions) | Github 官方开源项目讨论组       |
 | Gitter                 | [https://gitter.im/tigateam/tigago](https://gitter.im/tigateam/tigago)                           | 一个公开的即时聊天工具          |
 | RobeeAsk               | [http://tigago.robeeask.com/](http://tigago.robeeask.com/)                                       | 一个付费问答社区                |
-| 微信/QQ Group          | 微信: misitebao_work</br>QQ: 1028817941                                                          | 添加微信/QQ，备注 Tigago 加群。 |
-
-<span id="nav-10"></span>
-
-## 👼 部分用户
-
-- [知一尚智](#)
+| 微信/QQ Group          | 微信: misitebao_work</br>QQ: 1128817941                                                          | 添加微信/QQ，备注 Tigago 加群。 |
 
 <span id="nav-11"></span>
 
-## ☕ 捐赠者
+## 部分用户
+
+- [知一尚智](#)
 
 <span id="nav-12"></span>
 
-## 💰 赞助商
+## 捐赠者
+
+<span id="nav-13"></span>
+
+## 赞助商
 
 感谢以下个人和公司的赞助：
 
@@ -121,16 +126,16 @@ go get github.com/tigateam/tigago
   <img src="https://cdn.jsdelivr.net/gh/misitebao/CDN@main/logo/robeeask.png" height="50px" alt="RobeeAsk"/>
 </a>
 
-<span id="nav-13"></span>
-
-## 👏 特别感谢
-
-<a href="https://www.jetbrains.com/?from=Tigaui">
-  <img src="https://cdn.jsdelivr.net/gh/misitebao/CDN@main/logo/jetbrains.png" height="120" alt="JetBrains"/>
-</a>
-
 <span id="nav-14"></span>
 
-## ©️ 版权许可
+## 特别感谢
+
+<a href="https://www.jetbrains.com/?from=Tigaui">
+  <img src="https://cdn.jsdelivr.net/gh/misitebao/CDN@main/logo/jetbrains.png" height="130" alt="JetBrains"/>
+</a>
+
+<span id="nav-15"></span>
+
+## 版权许可
 
 [License MIT](LICENSE)

@@ -1,6 +1,5 @@
-<!-- # README -->
 <p align="center">
-   <img src="https://cdn.jsdelivr.net/gh/misitebao/CDN@master/gravatar_tigateam.png" width="180" height="180"/><br/>
+   <img src="/logo.jpeg" width="180" height="180"/>
 </p>
 <p align="center">
 A modular framework based on Go language
@@ -8,13 +7,13 @@ A modular framework based on Go language
 
 <span id="nav-1"></span>
 
-## 🌏 Internationalization
+## Internationalization
 
 [English](README.md) | [简体中文](README.zh-Hans.md) | [繁體中文](README.zh-Hant.md)
 
 <span id="nav-2"></span>
 
-## 📚 Contents
+## Contents
 
 <details>
   <summary>Click me to Open/Close the directory listing</summary>
@@ -23,49 +22,54 @@ A modular framework based on Go language
 - [Contents](#nav-2)
 - [Introductions](#nav-3)
   - [Official Website](#nav-3-1)
+  - [Background](#nav-3-2)
 - [Graphic Demo](#nav-4)
 - [Features](#nav-5)
 - [Architecture](#nav-6)
 - [Getting Started](#nav-7)
 - [Authors](#nav-8)
 - [Contributors](#nav-9)
-- [Community Exchange](#nav-15)
-- [Part Of Users](#nav-10)
+- [Community Exchange](#nav-10)
+- [Part Of Users](#nav-11)
 - [Release History](CHANGE.md)
-- [Donators](#nav-11)
-- [Sponsors](#nav-12)
-- [Special Thanks](#nav-13)
-- [License](#nav-14)
+- [Donators](#nav-12)
+- [Sponsors](#nav-13)
+- [Special Thanks](#nav-14)
+- [License](#nav-15)
 
 </details>
 
 <span id="nav-3"></span>
 
-## ℹ️ Introductions
+## Introductions
 
 A modular framework based on Go language
 
 <span id="nav-3-1"></span>
 
-### 🔔 Official Website
+### Official Website
 
 [Tigago Framework Docs Website](https://tigago.tigateam.org)
 
+<span id="nav-3-2"></span>
+
+### Background
+
 <span id="nav-4"></span>
 
-## 🌅 Graphic Demo
+## Graphic Demo
 
 <span id="nav-5"></span>
 
-## ✳️ Features
+## Features
 
 <span id="nav-6"></span>
 
-## 🍊 Architecture
+## Architecture
 
 <span id="nav-7"></span>
 
-## 💎 Getting Started
+## Getting Started
 
 ```
 go get github.com/tigateam/tigago
@@ -73,11 +77,11 @@ go get github.com/tigateam/tigago
 
 <span id="nav-8"></span>
 
-## 🙆 Authors
+## Authors
 
 <span id="nav-9"></span>
 
-## 🌟 Contributors
+## Contributors
 
 Thank you to all the contributors who participated in the development of tigago. [Contributors](https://github.com/tigateam/tigago/graphs/contributors)
 
@@ -90,34 +94,34 @@ Thank you to all the contributors who participated in the development of tigago.
 
 </details>
 
-<span id="nav-15"></span>
+<span id="nav-10"></span>
 
-## 😵 Community Exchange
+## Community Exchange
 
 | Name                   | Way                                                                                              | Description                                          |
 | ---------------------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------- |
 | Github Discussions(⭐) | [https://github.com/tigateam/tigago/discussions](https://github.com/tigateam/tigago/discussions) | Github official open source project discussion group |
 | Gitter                 | [https://gitter.im/tigateam/tigago](https://gitter.im/tigateam/tigago)                           | A public instant chat tool                           |
 | RobeeAsk               | [http://tigago.robeeask.com/](http://tigago.robeeask.com/)                                       | A paid Q&A community                                 |
-| Wechat/QQ Group        | Wechat ID: misitebao_work</br>QQ Number: 1028817941                                              | Add WeChat/QQ friends, note Tigago add group.        |
-
-<span id="nav-10"></span>
-
-## 👼 Part Of Users
-
-- [Zhiyishangzhi Technology Co., Ltd.](#)
-
-> We have listed some users here, if your company or project is using Tigago, please let us know [here](https://github.com/tigateam/tigago/issues/13).
+| Wechat/QQ Group        | Wechat ID: misitebao_work</br>QQ Number: 1128817941                                              | Add WeChat/QQ friends, note Tigago add group.        |
 
 <span id="nav-11"></span>
 
-## ☕ Donators
+## Part Of Users
 
-_If you love Tigago, why not buy developer a cup of coffee?_
+- [Zhiyishangzhi Technology Co., Ltd.](#)
+
+> We have listed some users here, if your company or project is using Tigago, please let us know [here](https://github.com/tigateam/tigago/issues/14).
 
 <span id="nav-12"></span>
 
-## 💰 Sponsors
+## Donators
+
+_If you love Tigago, why not buy developer a cup of coffee?_
+
+<span id="nav-13"></span>
+
+## Sponsors
 
 Thanks for the sponsors of the following individuals and companies:
 
@@ -127,15 +131,15 @@ Thanks for the sponsors of the following individuals and companies:
 
 > We thank you for any kind of sponsorship for the development of Tigago
 
-<span id="nav-13"></span>
+<span id="nav-14"></span>
 
-## 👏 Special Thanks
+## Special Thanks
 
 <a href="https://www.jetbrains.com/?from=Tigaui">
-  <img src="https://cdn.jsdelivr.net/gh/misitebao/CDN@main/logo/jetbrains.png" height="120px" alt="JetBrains"/>
+  <img src="https://cdn.jsdelivr.net/gh/misitebao/CDN@main/logo/jetbrains.png" height="130px" alt="JetBrains"/>
 </a>
 
-<span id="nav-14"></span>
+<span id="nav-15"></span>
 
 ## ©️License
 
