@@ -1,6 +1,6 @@
 <!-- # README -->
 <p align="center">
-  <img src="/logo.png" height="350"/>
+  <img src="/logo.png" height="300"/>
 </p>
 <p align="center">
 一個基於Go語言的模塊化框架

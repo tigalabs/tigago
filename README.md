@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/logo.png" height="350"/>
+  <img src="/logo.png" height="300"/>
 </p>
 <p align="center">
 A modular framework based on Go language
