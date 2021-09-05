@@ -1,4 +1,3 @@
-<!-- # README -->
 <p align="center">
   <img src="/logo.png" height="300"/>
 </p>
@@ -36,9 +35,9 @@
 - [功能特色](#nav-5)
 - [架构](#nav-6)
 - [新手入门](#nav-7)
-- [关于作者](#nav-8)
+- [维护者](#nav-8)
 - [贡献者](#nav-9)
-- [社区交流](#nav-15)
+- [社区交流](#nav-10)
 - [部分用户](#nav-11)
 - [发布记录](CHANGE.md)
 - [捐赠者](#nav-12)
@@ -86,13 +85,7 @@ go get github.com/tigateam/tigago
 
 <span id="nav-8"></span>
 
-## 关于作者
-
-<span id="nav-9"></span>
-
-## 贡献者
-
-感谢所有参与 tigago 开发的贡献者。 [贡献者](https://github.com/tigateam/tigago/graphs/contributors)
+## 维护者
 
 <a href="https://github.com/misitebao"><img src="https://github.com/misitebao.png" width="40" height="40" alt="misitebao" title="misitebao"/></a>
 
@@ -102,6 +95,12 @@ go get github.com/tigateam/tigago
 - [Misitebao](https://github.com/misitebao)
 
 </details>
+
+<span id="nav-9"></span>
+
+## 贡献者
+
+感谢所有参与 tigago 开发的贡献者。 [贡献者](https://github.com/tigateam/tigago/graphs/contributors)
 
 <span id="nav-10"></span>
 

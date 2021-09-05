@@ -35,7 +35,7 @@ A modular framework based on Go language
 - [Features](#nav-5)
 - [Architecture](#nav-6)
 - [Getting Started](#nav-7)
-- [Authors](#nav-8)
+- [Maintainer](#nav-8)
 - [Contributors](#nav-9)
 - [Community Exchange](#nav-10)
 - [Part Of Users](#nav-11)
@@ -85,13 +85,7 @@ go get github.com/tigateam/tigago
 
 <span id="nav-8"></span>
 
-## Authors
-
-<span id="nav-9"></span>
-
-## Contributors
-
-Thank you to all the contributors who participated in the development of tigago. [Contributors](https://github.com/tigateam/tigago/graphs/contributors)
+## Maintainer
 
 <a href="https://github.com/misitebao"><img src="https://github.com/misitebao.png" width="40" height="40" alt="misitebao" title="misitebao"/></a>
 
@@ -101,6 +95,12 @@ Thank you to all the contributors who participated in the development of tigago.
 - [Misitebao](https://github.com/misitebao)
 
 </details>
+
+<span id="nav-9"></span>
+
+## Contributors
+
+Thank you to all the contributors who participated in the development of tigago. [Contributors](https://github.com/tigateam/tigago/graphs/contributors)
 
 <span id="nav-10"></span>
 
