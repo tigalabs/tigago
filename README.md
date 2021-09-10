@@ -6,7 +6,7 @@ A modular framework based on Go language
 </p>
 <p align="center">
   <a href="https://github.com/tigateam/tigago/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/tigateam/tigago?style=flat-square"/></a>
-  <a href="https://github.com/misitebao/standard-repository"><img alt="GitHub" src="https://img.shields.io/badge/Readme--Style-standard--repository-brightgreen?style=flat-square"/></a>
+  <a href="https://github.com/misitebao/standard-repository"><img alt="GitHub" src="https://img.shields.io/badge/Readme--Style-standard--repository-brightgreen?style=flat-square&color=f83500"/></a>
   <a href="https://github.com/tigateam/tigago"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tigateam/tigago?style=flat-square"/></a>
   <a href="https://github.com/tigateam/tigago/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/tigateam/tigago?style=flat-square"/></a>
   <a href="https://github.com/tigateam/tigago/releases"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/tigateam/tigago?style=flat-square"/></a>
@@ -106,12 +106,13 @@ Thank you to all the contributors who participated in the development of tigago.
 
 ## Community Exchange
 
-| Name                   | Way                                                                                              | Description                                          |
-| ---------------------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------- |
-| Github Discussions(⭐) | [https://github.com/tigateam/tigago/discussions](https://github.com/tigateam/tigago/discussions) | Github official open source project discussion group |
-| Gitter                 | [https://gitter.im/tigateam/tigago](https://gitter.im/tigateam/tigago)                           | A public instant chat tool                           |
-| RobeeAsk               | [http://tigago.robeeask.com/](http://tigago.robeeask.com/)                                       | A paid Q&A community                                 |
-| Wechat/QQ Group        | Wechat ID: misitebao_work</br>QQ Number: 1128817941                                              | Add WeChat/QQ friends, note Tigago add group.        |
+| Name                   | Way                                                                                                                                      | Description                                          |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| Github Discussions(⭐) | [https://github.com/tigateam/tigago/discussions](https://github.com/tigateam/tigago/discussions)                                         | Github official open source project discussion group |
+| Discord                | [https://discord.com/channels/885723956869476373/885725032251285604](https://discord.com/channels/885723956869476373/885725032251285604) | A public instant chat tool                           |
+| Gitter                 | [https://gitter.im/tigateam/tigago](https://gitter.im/tigateam/tigago)                                                                   | A public instant chat tool                           |
+| RobeeAsk               | [http://tigago.robeeask.com/](http://tigago.robeeask.com/)                                                                               | A paid Q&A community                                 |
+| Wechat/QQ Group        | Wechat ID: misitebao_work</br>QQ Number: 1128817941                                                                                      | Add WeChat/QQ friends, note Tigago add group.        |
 
 <span id="nav-11"></span>
 
@@ -119,7 +120,7 @@ Thank you to all the contributors who participated in the development of tigago.
 
 - [Zhiyishangzhi Technology Co., Ltd.](#)
 
-> We have listed some users here, if your company or project is using Tigago, please let us know [here](https://github.com/tigateam/tigago/issues/14).
+> We have listed some users here, if your company or project is using Tigago, please let us know [here](https://github.com/tigateam/tigago/issues/13).
 
 <span id="nav-12"></span>
 

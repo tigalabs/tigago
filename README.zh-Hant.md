@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="/logo.png" height="300"/>
+  <img src="/logo.png" height="280"/>
 </p>
 <p align="center">
 一個基於Go語言的模塊化框架
 </p>
 <p align="center">
   <a href="https://github.com/tigateam/tigago/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/tigateam/tigago?style=flat-square"/></a>
-  <a href="https://github.com/misitebao/standard-repository"><img alt="GitHub" src="https://img.shields.io/badge/Readme--Style-standard--repository-brightgreen?style=flat-square"/></a>
+  <a href="https://github.com/misitebao/standard-repository"><img alt="GitHub" src="https://img.shields.io/badge/Readme--Style-standard--repository-brightgreen?style=flat-square&color=f83500"/></a>
   <a href="https://github.com/tigateam/tigago"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tigateam/tigago?style=flat-square"/></a>
   <a href="https://github.com/tigateam/tigago/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/tigateam/tigago?style=flat-square"/></a>
   <a href="https://github.com/tigateam/tigago/releases"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/tigateam/tigago?style=flat-square"/></a>
@@ -106,12 +106,13 @@ go get github.com/tigateam/tigago
 
 ## 社區交流
 
-| 名稱                   | 方式                                                                                             | 描述                            |
-| ---------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------- |
-| Github Discussions(⭐) | [https://github.com/tigateam/tigago/discussions](https://github.com/tigateam/tigago/discussions) | Github 官方開源項目討論組       |
-| Gitter                 | [https://gitter.im/tigateam/tigago](https://gitter.im/tigateam/tigago)                           | 一個公開的即時聊天工具          |
-| RobeeAsk               | [http://tigago.robeeask.com/](http://tigago.robeeask.com/)                                       | 一個付費問答社區                |
-| 微信/QQ Group          | 微信: misitebao_work</br>QQ: 1128817941                                                          | 添加微信/QQ，備註 Tigago 加群。 |
+| 名稱                   | 方式                                                                                                                                     | 描述                            |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| Github Discussions(⭐) | [https://github.com/tigateam/tigago/discussions](https://github.com/tigateam/tigago/discussions)                                         | Github 官方開源項目討論組       |
+| Discord                | [https://discord.com/channels/885723956869476373/885725032251285604](https://discord.com/channels/885723956869476373/885725032251285604) | 一個公開的即時聊天工具          |
+| Gitter                 | [https://gitter.im/tigateam/tigago](https://gitter.im/tigateam/tigago)                                                                   | 一個公開的即時聊天工具          |
+| RobeeAsk               | [http://tigago.robeeask.com/](http://tigago.robeeask.com/)                                                                               | 一個付費問答社區                |
+| 微信/QQ Group          | 微信: misitebao_work</br>QQ: 1128817941                                                                                                  | 添加微信/QQ，備註 Tigago 加群。 |
 
 <span id="nav-11"></span>
 
@@ -119,7 +120,7 @@ go get github.com/tigateam/tigago
 
 - [知一尚智](#)
 
-> 我們在這裡列出了一些用戶，如果您的公司或項目正在使用 Tigago，請在[这里](https://github.com/tigateam/tigago/issues/14)告訴我們吧。
+> 我們在這裡列出了一些用戶，如果您的公司或項目正在使用 Tigago，請在[这里](https://github.com/tigateam/tigago/issues/13)告訴我們吧。
 
 <span id="nav-12"></span>
 
