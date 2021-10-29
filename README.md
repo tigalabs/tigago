@@ -1,33 +1,45 @@
 <p align="center">
-  <img src="/logo.png" height="300"/>
+  <img src="/assets/logo.png" width="50%"/>
 </p>
 <p align="center">
 A modular framework based on Go language
 </p>
 <p align="center">
-  <a href="https://github.com/tigateam/tigago/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/tigateam/tigago?style=flat-square"/></a>
-  <a href="https://github.com/misitebao/standard-repository"><img alt="GitHub" src="https://img.shields.io/badge/Readme--Style-standard--repository-brightgreen?style=flat-square&color=f83500"/></a>
-  <a href="https://github.com/tigateam/tigago"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tigateam/tigago?style=flat-square"/></a>
-  <a href="https://github.com/tigateam/tigago/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/tigateam/tigago?style=flat-square"/></a>
-  <a href="https://github.com/tigateam/tigago/releases"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/tigateam/tigago?style=flat-square"/></a>
-  <a href="https://gitter.im/tigateam/tigago"><img alt="Gitter" src="https://img.shields.io/gitter/room/tigateam/tigago?style=flat-square&color=4ab494"/></a>
+  <a href="https://github.com/tigateam/tigago/blob/main/LICENSE">
+    <img alt="GitHub" src="https://img.shields.io/github/license/tigateam/tigago?style=flat-square"/>
+  </a>
+  <a href="https://github.com/misitebao/standard-repository">
+    <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/misitebao/standard-repository@main/assets/badge_flat-square.svg"/>
+  </a>
+  <a href="https://github.com/tigateam/tigago">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tigateam/tigago?style=flat-square"/>
+  </a>
+  <a href="https://github.com/tigateam/tigago/issues">
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/tigateam/tigago?style=flat-square"/>
+  </a>
+  <a href="https://github.com/tigateam/tigago/releases">
+    <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/tigateam/tigago?sort=semver&style=flat-square"/>
+  </a>
+  <a href="https://gitter.im/tigateam/tigago">
+    <img alt="Gitter" src="https://img.shields.io/gitter/room/tigateam/tigago?style=flat-square&color=4ab494"/>
+  </a>
 </p>
 
 <span id="nav-1"></span>
 
 ## Internationalization
 
-[English](README.md) | [简体中文](README.zh-Hans.md) | [繁體中文](README.zh-Hant.md)
+[English](README.md) | [简体中文](README.zh-Hans.md)
 
 <span id="nav-2"></span>
 
-## Contents
+## Table of Contents
 
 <details>
   <summary>Click me to Open/Close the directory listing</summary>
 
 - [Internationalization](#nav-1)
-- [Contents](#nav-2)
+- [Table of Contents](#nav-2)
 - [Introductions](#nav-3)
   - [Official Website](#nav-3-1)
   - [Background](#nav-3-2)
@@ -61,25 +73,33 @@ A modular framework based on Go language
 
 <span id="nav-3-2"></span>
 
-### Background
+<!-- ### Background -->
+
+<!-- Fill in the project creation background here -->
 
 <span id="nav-4"></span>
 
-## Graphic Demo
+<!-- ## Graphic Demo -->
+
+<!-- Place the demo of your project here, which can be a specific visit address, picture screenshot, Gif or video, etc. -->
 
 <span id="nav-5"></span>
 
-## Features
+<!-- ## Features -->
+
+<!-- Fill in the features of your project here, usually a list. -->
 
 <span id="nav-6"></span>
 
-## Architecture
+<!-- ## Architecture -->
+
+<!-- Fill in your project architecture diagram or description here, and you can place the project directory description -->
 
 <span id="nav-7"></span>
 
 ## Getting Started
 
-```
+```shell
 go get github.com/tigateam/tigago
 ```
 
@@ -104,15 +124,9 @@ Thank you to all the contributors who participated in the development of tigago.
 
 <span id="nav-10"></span>
 
-## Community Exchange
+<!-- ## Community Exchange -->
 
-| Name                   | Way                                                                                                                                      | Description                                          |
-| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
-| Github Discussions(⭐) | [https://github.com/tigateam/tigago/discussions](https://github.com/tigateam/tigago/discussions)                                         | Github official open source project discussion group |
-| Discord                | [https://discord.com/channels/885723956869476373/885725032251285604](https://discord.com/channels/885723956869476373/885725032251285604) | A public instant chat tool                           |
-| Gitter                 | [https://gitter.im/tigateam/tigago](https://gitter.im/tigateam/tigago)                                                                   | A public instant chat tool                           |
-| RobeeAsk               | [http://tigago.robeeask.com/](http://tigago.robeeask.com/)                                                                               | A paid Q&A community                                 |
-| Wechat/QQ Group        | Wechat ID: misitebao_work</br>QQ Number: 1128817941                                                                                      | Add WeChat/QQ friends, note Tigago add group.        |
+<!-- Fill in the online and offline communication address of the project here, which can be an instant messaging group, a community, or a discussion group, etc. -->
 
 <span id="nav-11"></span>
 
@@ -124,9 +138,9 @@ Thank you to all the contributors who participated in the development of tigago.
 
 <span id="nav-12"></span>
 
-## Donators
+<!-- ## Donators -->
 
-_If you love Tigago, why not buy developer a cup of coffee?_
+<!-- Fill in the list of donors here -->
 
 <span id="nav-13"></span>
 
@@ -138,18 +152,18 @@ Thanks for the sponsors of the following individuals and companies:
   <img src="https://cdn.jsdelivr.net/gh/misitebao/CDN@main/logo/robeeask.png" height="50px" alt="RobeeAsk"/>
 </a>
 
-> We thank you for any kind of sponsorship for the development of Tigago
+> We thank you for any kind of sponsorship for the development of Tigago.
 
 <span id="nav-14"></span>
 
 ## Special Thanks
 
-<a href="https://www.jetbrains.com/?from=Tigaui">
+<a href="https://www.jetbrains.com/?from=tigago">
   <img src="https://cdn.jsdelivr.net/gh/misitebao/CDN@main/logo/jetbrains.png" height="130px" alt="JetBrains"/>
 </a>
 
 <span id="nav-15"></span>
 
-## ©️License
+## License
 
 [License MIT](LICENSE)

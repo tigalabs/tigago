@@ -1,23 +1,37 @@
 <p align="center">
-  <img src="/logo.png" height="280"/>
+  <img src="/assets/logo.png" width="50%"/>
 </p>
 <p align="center">
-一个基于Go语言的模块化框架
+A modular framework based on Go language
 </p>
 <p align="center">
-  <a href="https://github.com/tigateam/tigago/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/tigateam/tigago?style=flat-square"/></a>
-  <a href="https://github.com/misitebao/standard-repository"><img alt="GitHub" src="https://img.shields.io/badge/Readme--Style-standard--repository-brightgreen?style=flat-square&color=f83500"/></a>
-  <a href="https://github.com/tigateam/tigago"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tigateam/tigago?style=flat-square"/></a>
-  <a href="https://github.com/tigateam/tigago/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/tigateam/tigago?style=flat-square"/></a>
-  <a href="https://github.com/tigateam/tigago/releases"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/tigateam/tigago?style=flat-square"/></a>
-  <a href="https://gitter.im/tigateam/tigago"><img alt="Gitter" src="https://img.shields.io/gitter/room/tigateam/tigago?style=flat-square&color=4ab494"/></a>
+  <a href="https://github.com/tigateam/tigago/blob/main/LICENSE">
+    <img alt="GitHub" src="https://img.shields.io/github/license/tigateam/tigago?style=flat-square"/>
+  </a>
+  <a href="https://github.com/misitebao/standard-repository">
+    <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/misitebao/standard-repository@main/assets/badge_flat-square.svg"/>
+  </a>
+  <a href="https://github.com/tigateam/tigago">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tigateam/tigago?style=flat-square"/>
+  </a>
+  <a href="https://github.com/tigateam/tigago/issues">
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/tigateam/tigago?style=flat-square"/>
+  </a>
+  <a href="https://github.com/tigateam/tigago/releases">
+    <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/tigateam/tigago?sort=semver&style=flat-square"/>
+  </a>
+  <a href="https://gitter.im/tigateam/tigago">
+    <img alt="Gitter" src="https://img.shields.io/gitter/room/tigateam/tigago?style=flat-square&color=4ab494"/>
+  </a>
 </p>
 
 <span id="nav-1"></span>
 
 ## 国际化
 
-[English](README.md) | [简体中文](README.zh-Hans.md) | [繁體中文](README.zh-Hant.md)
+<!-- 这是多语言列表 -->
+
+[English](README.md) | [简体中文](README.zh-Hans.md)
 
 <span id="nav-2"></span>
 
@@ -61,25 +75,33 @@
 
 <span id="nav-3-2"></span>
 
-### 背景
+<!-- ### 背景 -->
+
+<!-- 这里填写项目创作背景 -->
 
 <span id="nav-4"></span>
 
-## 图形演示
+<!-- ## 图形演示 -->
+
+<!-- 把你项目的demo放在这里，可以是具体的访问地址、图片截图、Gif或者视频等。 -->
 
 <span id="nav-5"></span>
 
-## 功能特色
+<!-- ## 功能特色 -->
+
+<!-- 在此处填写您的项目的功能，通常是一个列表。 -->
 
 <span id="nav-6"></span>
 
-## 架构
+<!-- ## 架构 -->
+
+<!-- 在这里填写你的项目架构图或描述，你可以放置项目目录描述 -->
 
 <span id="nav-7"></span>
 
 ## 新手入门
 
-```
+```shell
 go get github.com/tigateam/tigago
 ```
 
@@ -104,15 +126,9 @@ go get github.com/tigateam/tigago
 
 <span id="nav-10"></span>
 
-## 社区交流
+<!-- ## 社区交流 -->
 
-| 名称                   | 方式                                                                                                                                     | 描述                            |
-| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
-| Github Discussions(⭐) | [https://github.com/tigateam/tigago/discussions](https://github.com/tigateam/tigago/discussions)                                         | Github 官方开源项目讨论组       |
-| Discord                | [https://discord.com/channels/885723956869476373/885725032251285604](https://discord.com/channels/885723956869476373/885725032251285604) | 一个公开的即时聊天工具          |
-| Gitter                 | [https://gitter.im/tigateam/tigago](https://gitter.im/tigateam/tigago)                                                                   | 一个公开的即时聊天工具          |
-| RobeeAsk               | [http://tigago.robeeask.com/](http://tigago.robeeask.com/)                                                                               | 一个付费问答社区                |
-| 微信/QQ Group          | 微信: misitebao_work</br>QQ: 1128817941                                                                                                  | 添加微信/QQ，备注 Tigago 加群。 |
+<!-- 此处填写项目的线上线下交流地址，可以是即时通讯群、社区、讨论群等。 -->
 
 <span id="nav-11"></span>
 
@@ -124,9 +140,9 @@ go get github.com/tigateam/tigago
 
 <span id="nav-12"></span>
 
-## 捐赠者
+<!-- ## 捐赠者 -->
 
-_如果你喜欢 Tigago 的话，可以请我们喝杯咖啡。_
+<!-- 在这里填写捐赠者名单 -->
 
 <span id="nav-13"></span>
 
@@ -138,13 +154,13 @@ _如果你喜欢 Tigago 的话，可以请我们喝杯咖啡。_
   <img src="https://cdn.jsdelivr.net/gh/misitebao/CDN@main/logo/robeeask.png" height="50px" alt="RobeeAsk"/>
 </a>
 
-> 我们感谢您为 Tigago 的发展提供任何形式的赞助
+> 我们感谢您为 Tigago 的发展提供任何形式的赞助。
 
 <span id="nav-14"></span>
 
 ## 特别感谢
 
-<a href="https://www.jetbrains.com/?from=Tigaui">
+<a href="https://www.jetbrains.com/?from=tigago">
   <img src="https://cdn.jsdelivr.net/gh/misitebao/CDN@main/logo/jetbrains.png" height="130" alt="JetBrains"/>
 </a>
 
