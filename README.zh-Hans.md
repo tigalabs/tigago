@@ -19,11 +19,12 @@
   <a href="https://github.com/tigateam/tigago/issues">
     <img alt="GitHub issues" src="https://img.shields.io/github/issues/tigateam/tigago?style=flat-square"/>
   </a>
-  <a href="https://github.com/tigateam/tigago/releases">
-    <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/tigateam/tigago?sort=semver&style=flat-square"/>
-  </a>
   <a href="https://app.slack.com/client/T029RQSE6/C01RXTL6RL2">
     <img alt="Slack" src="https://img.shields.io/badge/slack-gophers%2Ftigago%20-blue?logo=slack"/>
+  </a>
+  <br/>
+  <a href="https://pkg.go.dev/github.com/tigateam/tigago/">
+    <img alt="GitHub tag (latest SemVer pre-release)" src="https://img.shields.io/github/v/tag/tigateam/tigago?include_prereleases&label=pkg.go.dev"/>
   </a>
 </p>
 
